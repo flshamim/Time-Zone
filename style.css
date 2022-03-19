@@ -1,0 +1,10 @@
+.nav-body{
+    background-color: rgb(240, 20, 93);
+    color: aliceblue;
+}
+.ankor:hover{
+ text-decoration: double;
+}
+/* .ankor{
+    text-decoration: none;
+} */
