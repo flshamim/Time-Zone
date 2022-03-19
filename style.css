@@ -3,8 +3,5 @@
     color: aliceblue;
 }
 .ankor:hover{
- text-decoration: double;
+ text-decoration: none;
 }
-/* .ankor{
-    text-decoration: none;
-} */
