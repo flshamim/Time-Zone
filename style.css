@@ -1,10 +1,22 @@
 .nav-body{
     background-color: rgb(240, 20, 93);
     color: aliceblue;
+  
 }
 .ankor{
  text-decoration: none;
 }
 .user{
     border-radius: 50%;
+}
+.li-div{
+    background-color: rgb(240, 20, 93);
+}
+.gif{
+    width: 200px;
+    height: 200px;
+}
+.collection{
+    background-color: rgb(238, 79, 132);
+
 }
